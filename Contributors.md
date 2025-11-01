@@ -19,5 +19,12 @@ Approach: Tell about architecture: Driver, cluster manager, executors.
 
 Thats it.
 
-Fork now and be a help for the community.
+If the file already exists for a particular company, role and expericence, add `_1`, `_2` et cetera in your file and do a commit.
+
+While making a commit, keep any commit message of your choice.
+Push the code. I will merge to main within 24 hours.
+
+Any suggestions are always welcome.
+
+Fork now and be a helping hand for the community.
 Thanks
