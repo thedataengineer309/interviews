@@ -19,5 +19,9 @@ Approach: Tell about architecture: Driver, cluster manager, executors.
 
 Thats it.
 
-Fork now and be a help for the community.
+While making a commit, keep any commit message of your choice.
+Push the code. I will merge to main within 24 hours.
+
+
+Fork now and be a helping hand for the community.
 Thanks
