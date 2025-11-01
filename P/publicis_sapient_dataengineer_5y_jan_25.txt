@@ -1,0 +1,18 @@
+1. Second highest salary to find both in SQL and pyspark
+A: Show window functions, and sub query both the methods
+
+2. Transformations and actions
+
+3. Explode, collect_list, collect_set methods, examples
+
+4. Multiple joins in sql and spark.
+
+5. How to handle nulls in spark
+A: tell about different read modes 
+
+6. How to read json files in spark
+
+7. Spark wordcount examples
+
+8. What are the differnet airflow operators you have used for running spark applications. Write a simple dag
+A: Tell about SparkSubmitOperator etc.
