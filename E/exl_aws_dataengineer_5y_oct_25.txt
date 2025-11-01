@@ -1,0 +1,25 @@
+The interview focused more on spark.
+
+1. How do you connect spark with aws
+Approach: Tell about initialising spark session with aws config.
+
+2. How do you convert spark df to pandas df; What are udfs in pyspark, How to write udfs
+A: Prepare with all the important pyspark methods
+
+3. How do spark handles memory
+A: Spark memory management
+
+4. Spark Transformations
+A: Talk about narrow and wide transformations, give examples
+
+5. Transformations and actions
+6. Lazy evaluation
+
+7. Optimization techniques
+A: Give practical examples that you have used.
+
+8. Different modes of reading a file in spark
+A: Tell about PERMISSIVE, DROPMALFORMED, FAILFAST modes with examples.
+
+9: Lifecycle of a SQL query
+A: Order of execution of any SQL query
