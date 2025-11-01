@@ -12,7 +12,9 @@ Simply write the questions asked for you in the interview.
 Write the approach, important points to cover.
 
 For example:
-Q: Describe Spark architecture
+
+Describe Spark architecture
+
 Approach: Tell about architecture: Driver, cluster manager, executors.
 
 Thats it.
