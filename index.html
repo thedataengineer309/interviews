@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Engineer Interview Experiences</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🎯 Data Engineer Interview Experiences</h1>
+            <p class="subtitle">Master your Data Engineer interview skills with real interview questions and approaches</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search by company, role, or keyword...">
+            <button id="searchBtn">🔍 Search</button>
+            <button id="clearBtn">Clear</button>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <span class="stat-number" id="totalInterviews">0</span>
+                <span class="stat-label">Interviews</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="totalCompanies">0</span>
+                <span class="stat-label">Companies</span>
+            </div>
+        </div>
+
+        <div class="filters">
+            <select id="companyFilter">
+                <option value="">All Companies</option>
+            </select>
+            <select id="roleFilter">
+                <option value="">All Roles</option>
+            </select>
+        </div>
+
+        <div id="loading" class="loading">Loading interview experiences...</div>
+        <div id="interviewsList" class="interviews-list"></div>
+        <div id="noResults" class="no-results" style="display: none;">
+            <p>No interviews found matching your search criteria.</p>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Contribute your interview experience to help the community! <a href="https://github.com" target="_blank">Fork on GitHub</a></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
